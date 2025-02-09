@@ -1,4 +1,4 @@
-Machine Learning Pipeline Project
+Task2:Machine Learning Pipeline Project
 📌 Project Overview
 This project follows a 3-step pipeline:
 1️⃣ Load and preprocess a dataset.
@@ -19,6 +19,7 @@ Edit
 ├── main.py                       # Main script to execute all steps
 ├── requirements.txt               # List of required dependencies
 ├── README.md                      # Project documentation
+
 🛠 Installation Steps
 1️⃣ Clone the Repository
 bash
