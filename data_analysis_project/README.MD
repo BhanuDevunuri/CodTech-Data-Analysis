@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis with Dask and Matplotlib
+#  Task 1:COVID-19 Data Analysis with Dask and Matplotlib
 
 ## Project Overview
 This project analyzes COVID-19 data using **Dask** for efficient data handling and **Matplotlib** for visualization. It focuses on calculating **Recovery Rate (%)** and **Death Rate (%)**, and visualizing the top 5 countries with the highest confirmed cases.
