@@ -1,4 +1,4 @@
-# Sentiment Analysis using Naive Bayes
+# Task 4:Sentiment Analysis using Naive Bayes
 
 ## Overview
 This project performs sentiment analysis on text data using a Naive Bayes classifier. The dataset consists of sample text reviews labeled as positive (1) or negative (0). The text data is preprocessed, transformed into numerical features using TF-IDF, and classified using Multinomial Naive Bayes.
