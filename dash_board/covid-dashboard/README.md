@@ -1,4 +1,4 @@
-# COVID-19 Dashboard
+#  Task 3:COVID-19 Dashboard
 
 ## Overview
 This project is a **COVID-19 Dashboard** built using **Dash** and **Plotly**, providing real-time visualizations of COVID-19 cases across different countries and WHO regions. The dashboard features interactive charts and responsive UI components for better data analysis.
