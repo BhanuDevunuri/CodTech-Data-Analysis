@@ -1,4 +1,3 @@
-# CodTech-Data-Analysis
 # CodTech Data Analysis Internship
 This repository contains my submission for the CodTech Data Analysis Internship.
 
